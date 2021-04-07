@@ -1,0 +1,3 @@
+# DiceBotSharp
+
+Discord Diceroller bot
